@@ -1,0 +1,6 @@
+CREATE TABLE TB_VISITAS (
+UUID_Paciente varchar2(100),
+nombre varchar2(100),
+edad int,
+Especialidad varchar2(100)
+);
